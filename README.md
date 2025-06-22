@@ -2,7 +2,7 @@
 
 ## Deployed links
 
-Website: https://www.infrastaking.com
+Website: [https://www.infrastaking.com](https://infrastaking-interface.vercel.app/)
 
 Smart Wallet Web App: https://smart-wallet-stellar.surge.sh/
 
