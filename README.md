@@ -1,5 +1,9 @@
 # InfraStaking – Liquid Staking Vault Powered by DePIN Rewards
 
+## Slide Deck
+
+https://www.figma.com/slides/T9Tu8s6gKMzENu4Wjdict4/infrastaking-stellar?node-id=1-255&t=ZNkVGfcpjMFag5IP-1
+
 ## 🔗 Deployed Links
 
 * **Website**: [https://infrastaking-interface.vercel.app/](https://infrastaking-interface.vercel.app/)
